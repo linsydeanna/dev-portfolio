@@ -203,6 +203,10 @@ iframe {
   margin-left: 5px;
   font-size: 12px;
 }
+
+.featured .library-label {
+margin: -15px 0px 30px;
+}
 .latest .item .title a {
   color: #778492;
 }
