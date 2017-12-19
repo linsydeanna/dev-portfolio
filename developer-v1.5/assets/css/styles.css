@@ -205,7 +205,7 @@ iframe {
 }
 
 .featured .library-label {
-margin: -15px 0px 30px;
+margin: 0px 0px 30px;
 }
 .latest .item .title a {
   color: #778492;
@@ -240,6 +240,7 @@ margin: -15px 0px 30px;
 }
 .latest .featured-image {
   position: relative;
+  border: 2px solid #DAE3E7;
 }
 .latest .featured-image .text {
   background: #3AAA64;
@@ -325,6 +326,13 @@ margin: -15px 0px 30px;
 .experience .item .title .year {
   color: #999;
   font-weight: normal;
+}
+/* Talks section */
+.meetup-group-name {
+  font-weight: 500;
+}
+.talk-description {
+  margin-bottom: 30px;
 }
 /* Git section */
 .github-graph {
